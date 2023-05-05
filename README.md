@@ -27,6 +27,6 @@ After the text processing was carried out, the final dataset was stored and used
 ## Results
 The results obtained from all the models used are as follows:
 
-![Results_Table](https://user-images.githubusercontent.com/95362556/236436818-a03a6b1c-fc4a-4ea9-bdd4-e2544463458f.jpg)
+![Results_Table](https://user-images.githubusercontent.com/95362556/236437406-61363328-f774-4f3e-9e6d-e3dc8c1ba39e.jpg)
 
 ![chart](https://user-images.githubusercontent.com/95362556/236436839-5a1e8209-f42f-4507-82d7-d4ed80214a5e.png)
