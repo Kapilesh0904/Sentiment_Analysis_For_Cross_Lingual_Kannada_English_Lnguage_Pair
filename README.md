@@ -22,7 +22,7 @@ Conversion to Kannada Text:
 
 ![Conversion](https://user-images.githubusercontent.com/95362556/236436008-18ed3ebc-403b-460e-adf3-112f9c53745d.jpg)
 
-After the text processing was carried out, the final dataset was stored in removed_not.csv and used for future evaluations.
+After the text processing was carried out, the final dataset was stored in [removed_not.csv](https://github.com/Kapilesh0904/Sentiment_Analysis_For_Cross_Lingual_Kannada_English_Lnguage_Pair/blob/main/removed_not.csv) and used for future evaluations.
 
 ## Results
 The results obtained from all the models used are as follows:
